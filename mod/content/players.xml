@@ -1,0 +1,18 @@
+<players 
+	root="gfx/characters/" 
+	portraitroot="gfx/ui/boss/" 
+	nameimageroot="gfx/ui/boss/" 
+	bigportraitroot="gfx/ui/stage/"> 
+	<player 
+		name="Pucci" 
+		skin="costumes/character_pucci.png" 
+		hp="4" 
+		black="1"  
+		coins="2" 
+		skinColor="-1" 
+		nameimage="playername_pucci.png" 
+		portrait="playerportrait_pucci.png" 
+		bigportrait="playerportrait_pucci.png" 
+		birthright="Made in Heaven!"
+		canShoot="False" />
+</players>
